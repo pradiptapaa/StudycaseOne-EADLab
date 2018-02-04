@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudycaseOne</string>
+    <string name="header">Makan Malam</string>
+    <string name="subHeader">dengan Milea</string>
+    <string name="input_makanan">Input Makanan</string>
+    <string name="input_jumlah">Input Jumlah Porsi</string>
+    <string name="tempat1">eatbus</string>
+    <string name="tempat2">abnormal</string>
+</resources>
